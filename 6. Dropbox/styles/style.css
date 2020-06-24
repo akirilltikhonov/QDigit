@@ -10,6 +10,7 @@
     height: 120vh;
     background: url(img/header.jpg) no-repeat;
     background-size: 100% 100%;
+    
 }
 
 
@@ -48,10 +49,8 @@
 }
 
 .button__log-in {
-
     border:none;
     background-color: inherit;
-  
 }
 
 
@@ -68,9 +67,5 @@
     display: inline-block;
     margin-left: auto;
     margin-right: auto;
-
-    
-    width: 22%;
-    height: 10%;
-    border-radius: 10% / 30%;
+    border-radius: 10% / 50%;
 }
